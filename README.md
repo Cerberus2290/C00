@@ -45,5 +45,5 @@ write(1, &c, 1);
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
 </p>
